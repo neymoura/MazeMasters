@@ -72,7 +72,7 @@ public class Maze {
         if(asWinner){
             System.out.println();
             System.out.println("*************************");
-            System.out.println("******YOU*FREE*NOW*******");
+            System.out.println("*****YOU*FREE*NOW*"+player+"******");
             System.out.println("*************************");
             System.out.println();
         }
@@ -112,6 +112,9 @@ public class Maze {
                 if (map[i][j] == player) {
 
                     try {
+
+                        newPlayerPositionI = i;
+                        newPlayerPositionJ = j;
 
                         switch (direction) {
                             case MOVE_UP:
@@ -187,6 +190,10 @@ public class Maze {
         char[][] playerMap = new char[map.length][map.length];
 
         copyMap(map, playerMap);
+
+        if(newPlayerPositionI == null || newPlayerPositionJ == null){
+            return playerMap;
+        }
 
         //blur player map
         for (int i = 0; (i < playerMap.length); i++) {
