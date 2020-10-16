@@ -32,8 +32,8 @@ public class Main {
                 char player = line.charAt(0);
                 char direction = line.charAt(1);
 
-//                maze.movePlayer(player, direction);
-//                maze.printMap();
+                maze.movePlayer(player, direction);
+                maze.printMap();
 
                 maze.printMap(maze.movePlayer(player, direction));
 
