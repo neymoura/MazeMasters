@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99e2a5c5-050b-4362-ad0b-7dac0e9ebe7f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MazeMasters.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MazeMasters.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ioraptor/mazemasters/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ioraptor/mazemasters/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ioraptor/mazemasters/rmi/RMIMaze.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ioraptor/mazemasters/rmi/RMIMazeClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ioraptor/mazemasters/rmi/RMIMazeInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ioraptor/mazemasters/rmi/RMIMazeServer.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ixcRoCyvtOlleG8mKFamHOZ5Qr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ioraptor.mazemasters.main.Main" />
+      <module name="MazeMasters" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ioraptor.mazemasters.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RMIMazeServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ioraptor.mazemasters.rmi.RMIMazeServer" />
+      <module name="MazeMasters" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ioraptor.mazemasters.rmi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.RMIMazeServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99e2a5c5-050b-4362-ad0b-7dac0e9ebe7f" name="Default Changelist" comment="" />
+      <created>1602852678668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602852678668</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="330" y="99" key="#Project_Structure" timestamp="1602852721087">
+      <screen x="0" y="23" width="1680" height="1000" />
+    </state>
+    <state x="330" y="99" key="#Project_Structure/0.23.1680.1000@0.23.1680.1000" timestamp="1602852721087" />
+    <state width="1358" height="354" key="GridCell.Tab.0.bottom" timestamp="1602854090990">
+      <screen x="0" y="23" width="1680" height="1000" />
+    </state>
+    <state width="1358" height="354" key="GridCell.Tab.0.bottom/0.23.1680.1000@0.23.1680.1000" timestamp="1602854090990" />
+    <state width="1358" height="354" key="GridCell.Tab.0.center" timestamp="1602854090989">
+      <screen x="0" y="23" width="1680" height="1000" />
+    </state>
+    <state width="1358" height="354" key="GridCell.Tab.0.center/0.23.1680.1000@0.23.1680.1000" timestamp="1602854090989" />
+    <state width="1358" height="354" key="GridCell.Tab.0.left" timestamp="1602854090988">
+      <screen x="0" y="23" width="1680" height="1000" />
+    </state>
+    <state width="1358" height="354" key="GridCell.Tab.0.left/0.23.1680.1000@0.23.1680.1000" timestamp="1602854090988" />
+    <state width="1358" height="354" key="GridCell.Tab.0.right" timestamp="1602854090989">
+      <screen x="0" y="23" width="1680" height="1000" />
+    </state>
+    <state width="1358" height="354" key="GridCell.Tab.0.right/0.23.1680.1000@0.23.1680.1000" timestamp="1602854090989" />
+    <state x="330" y="99" key="SettingsEditor" timestamp="1602853680493">
+      <screen x="0" y="23" width="1680" height="1000" />
+    </state>
+    <state x="330" y="99" key="SettingsEditor/0.23.1680.1000@0.23.1680.1000" timestamp="1602853680493" />
+  </component>
+</project>
